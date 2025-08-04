@@ -1,0 +1,10 @@
+altair
+numpy
+pandas
+docling
+sentence-transformers
+qdrant-client
+joblib
+wordcloud
+matplotlib
+streamlit
